@@ -7,10 +7,10 @@ _"Text Data in inherently linearly-separable."_
 
 The main goal of this project is to prove if this heuristic still holds in the Vietnamese language, both empirically and theoretically.
 
-**Remark**: 
 
-In this project, we did not seek to prove the text-book definition of linear-separability, as there is no such pattern in the real-world. What 
-we tried to prove is: **"There exists a good-enough hyperplane to serve as a classifier for our text-data."**
+**Remark**: In this project, we did not seek to prove the text-book definition of linear-separability, as there is no such pattern in the real-world. What we tried to prove is: 
+
+**"There exists a good-enough hyperplane to serve as a classifier for our text-data."**
 
 ## Overview of the Project
 
