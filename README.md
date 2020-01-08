@@ -10,7 +10,7 @@ The main goal of this project is to prove if this heuristic still holds in the V
 
 **Remark**: In this project, we did not seek to prove the text-book definition of linear-separability, as there is no such pattern in the real-world. What we tried to prove is: 
 
-**"There exists a good-enough hyperplane to serve as a classifier for our text-data."**
+_"There exists a good-enough hyperplane to serve as a classifier for our text-data."_
 
 ## Overview of the Project
 
@@ -41,6 +41,7 @@ The **theoretical part** of this project is developed by me based on the theoret
 ## About the details of the Theoretical Justification
 
 As you may notice, the theoretical part wasn't written down in the report; only its sketch was presented in the slides. This was due to coherence reasons since the report was supposed to include only experimental details. 
+
 However, I'm planning to write down its details and include here for future references (if time permits).
 
 ##### Thank you for taking your time reading this note!
