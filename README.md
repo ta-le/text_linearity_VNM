@@ -2,11 +2,15 @@ The Inherent Linear-Separability of Text-Data in the Vietnamese Language
 =========
 
 In text-classification tasks for the English language, there is a long-standing heuristic often quoted without proof: 
+
 _"Text Data in inherently linearly-separable."_ 
+
 The main goal of this project is to prove if this heuristic still holds in the Vietnamese language, both empirically and theoretically.
 
 **Remark**: 
-In this project, we did not seek to prove the text-book definition of linear-separability, as there is no such pattern in the real-world. What we tried to prove is: **"There exists a good-enough hyperplane to serve as a classifier for our text-data."**
+
+In this project, we did not seek to prove the text-book definition of linear-separability, as there is no such pattern in the real-world. What 
+we tried to prove is: **"There exists a good-enough hyperplane to serve as a classifier for our text-data."**
 
 ## Overview of the Project
 
@@ -34,12 +38,12 @@ The **theoretical part** of this project is developed by me based on the theoret
 
 **(4)** - This may be a reasonable assumption in most text-classification tasks, where the appearance or not of some words in a text is enough to determine its type (such as this one - binary-classify if a news text is Technology or Not-Technology). In more complex classification tasks, such as sentiment analysis, this is not the case anymore and **the long-standing heuristic may not hold true**.
 
-## On the details of the Theoretical Justification
+## About the details of the Theoretical Justification
 
-As you may notice, the theoretical part wasn't written down in the report; only its sketch was presented in the slides. This was because of coherence reasons since the report was supposed only to include experimental details. 
+As you may notice, the theoretical part wasn't written down in the report; only its sketch was presented in the slides. This was due to coherence reasons since the report was supposed to include only experimental details. 
 However, I'm planning to write down its details and include here for future references (if time permits).
 
-##### Thank you for taking your time reading this note.
+##### Thank you for taking your time reading this note!
 
 
 [1]: http://www.jvn.edu.vn/
